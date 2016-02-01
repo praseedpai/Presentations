@@ -1,2 +1,2 @@
-# Presentations
-Presentation Slides from the Past Technical Presentations
+# Presentations & Other materials
+Presentation Slides and Other materials of Technical Interest
