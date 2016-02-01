@@ -1,0 +1,4 @@
+LIBRARY PyExt.pyd
+
+EXPORTS
+	initPyExt

@@ -1,0 +1,4 @@
+LIBRARY ArrayExt.pyd
+
+EXPORTS
+        initArrayExt
