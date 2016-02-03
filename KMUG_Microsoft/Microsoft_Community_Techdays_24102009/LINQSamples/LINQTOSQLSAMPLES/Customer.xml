@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<customers>
+  <customer name="Paolo" city="Brescia" country="Italy" />
+  <customer name="Marco" city="Torino" country="Italy" />
+  <customer name="Praseed" city="Kochi" country="India" />
+  <customer name="James" city="Dallas" country="USA" />
+  <customer name="Frank" city="Seattle" country="USA" />
+</customers>
